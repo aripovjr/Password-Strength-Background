@@ -16,10 +16,10 @@ body{
 .background{
     background: url('https://images.unsplash.com/photo-1556745757-8d76bdb6984b') no-repeat center center;
     position: absolute;
-    top: 10px;
-    bottom: 10px;
-    left: 0;
-    right: 0;
+    top: -20px;
+    bottom: -20px;
+    left: -20;
+    right: -20;
     z-index: -1;
     filter: blur(20px);
 }
